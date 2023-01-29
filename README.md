@@ -1,5 +1,5 @@
 # Hi, I'm Mark
-### I'm a FrontEnd Developer. I like everything about web apps, JS frameworks, and everything about UIs.
+### I like everything about web apps, JS frameworks, and everything about UIs.
 
 
 

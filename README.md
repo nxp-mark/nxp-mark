@@ -1,5 +1,5 @@
 # Hi, I'm Mark
-### I like everything about web apps, JS frameworks, and everything about UIs.
+### I like everything about web apps, JS frameworks, and building UIs.
 
 
 

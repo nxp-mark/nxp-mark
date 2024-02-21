@@ -7,7 +7,7 @@
 
 ⚐ Based in Philippines
 
-ϟ Currently a Frontend Developer @ Nexplay
+ϟ Currently a Frontend Developer
 
 
 
